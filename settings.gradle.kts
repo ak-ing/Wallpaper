@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Wallpaper"
 include(":app")
- 
+include(":core:datastore")
+include(":core:model")
